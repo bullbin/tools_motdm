@@ -3,3 +3,5 @@ nopush_*
 *.vscode*
 *.pyc
 *.jar
+*.gif
+*.png
